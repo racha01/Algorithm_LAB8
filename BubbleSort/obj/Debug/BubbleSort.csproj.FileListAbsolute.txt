@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.Form1.resources
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BubbleSort\obj\Debug\BubbleSort.pdb

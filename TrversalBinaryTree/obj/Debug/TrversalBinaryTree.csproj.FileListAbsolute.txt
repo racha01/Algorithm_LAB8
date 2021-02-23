@@ -1,0 +1,2 @@
+C:\Users\Rachanon\source\repos\BinaryTreeLib\TrversalBinaryTree\obj\Debug\TrversalBinaryTree.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\TrversalBinaryTree\obj\Debug\TrversalBinaryTree.csproj.CoreCompileInputs.cache

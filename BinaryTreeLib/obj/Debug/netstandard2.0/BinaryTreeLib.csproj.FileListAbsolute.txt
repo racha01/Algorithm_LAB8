@@ -1,0 +1,9 @@
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\bin\Debug\netstandard2.0\BinaryTreeLib.deps.json
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\bin\Debug\netstandard2.0\BinaryTreeLib.dll
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\bin\Debug\netstandard2.0\BinaryTreeLib.pdb
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\netstandard2.0\BinaryTreeLib.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\netstandard2.0\BinaryTreeLib.AssemblyInfoInputs.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\netstandard2.0\BinaryTreeLib.AssemblyInfo.cs
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\netstandard2.0\BinaryTreeLib.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\netstandard2.0\BinaryTreeLib.dll
+C:\Users\Rachanon\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\netstandard2.0\BinaryTreeLib.pdb
